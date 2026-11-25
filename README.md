@@ -1,4 +1,3 @@
-
 # QR Code Creator
  
 A simple desktop app built with Python and Tkinter that turns any text or link into a QR code. Type your text, pick a few options, and hit **Convert**. The QR code shows up right inside the window and is saved as an image.
@@ -24,8 +23,8 @@ The app follows your system theme (light or dark) using the [Sun Valley ttk them
 ## Installation
  
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/Sudhir-090/qrcode6000.git
+cd qrcode6000
 pip install qrcode[pil] sv-ttk darkdetect
 ```
  
@@ -71,4 +70,3 @@ python qrmaker.py
  
 Free to use and modify. Add a license of your choice (for example MIT) if you want others to reuse it.
  
-
