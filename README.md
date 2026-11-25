@@ -60,13 +60,7 @@ python qrmaker.py
 - [qrcode](https://github.com/lincolnloop/python-qrcode), QR code generation
 - [sv-ttk](https://github.com/rdbende/Sun-Valley-ttk-theme), modern theme
 - [darkdetect](https://github.com/albertosottile/darkdetect), system theme detection
-## Ideas for the future
- 
-- Choose the save location and file name
-- Save as PNG
-- More colour options (custom colour picker)
-- A save/copy button for the generated image
+
 ## License
  
-Free to use and modify. Add a license of your choice (for example MIT) if you want others to reuse it.
- 
+Free to use and modify
